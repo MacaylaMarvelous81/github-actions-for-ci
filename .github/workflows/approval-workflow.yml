@@ -1,1 +1,2 @@
 name: Very Super Duper Serious Team (VSDST)'s apporval workflow
+on: pull_request_review
